@@ -3,7 +3,7 @@ import threading
 from queue import Queue
 
 # Target configuration
-TARGET = "192.168.1.68"  # Localhost for safe testing
+TARGET = "190.000.0"  # Localhost for safe testing
 queue = Queue()
 open_ports = []
 
